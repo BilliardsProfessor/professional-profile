@@ -31,8 +31,9 @@ I enjoy front-end work because I like seeing ideas become usable. But I do not w
 ## Selected Work
 
 ### Contra Costa County EHSD
+
 **Information Systems Programmer / Analyst IV**  
-*November 2012 – Present*  
+_November 2012 – Present_  
 Administrative Department, Application Development
 
 Highest-level role in the ISPA classification, focused on application development, front-end modernization, internal systems, workflow tools, and long-term support for county operational applications. Started as a Robert Half contractor in March 2012, continued as a county temporary employee in November 2012, and became a full-time county employee in October 2013.
@@ -68,43 +69,44 @@ The county holds the funds in a shared Wells Fargo account, while the applicatio
 ## Earlier Career Highlights
 
 ### PHP Publishing / Technical Authoring
+
 **Wiley Publishing**  
-*January 2003 – Present, various authoring and revision work*
+_Beginning 2003, with later revision work_
 
 Lead author and developer for _Beginning PHP, MySQL, and Apache Web Development_ and _Beginning PHP5, MySQL, and Apache Web Development_. Came to PHP through a real business need: replacing Lotus Notes-based internal tools with web applications that were easier to deploy and maintain. Wiley later asked me to lead a team of authors on a PHP development book after I became active helping other developers solve problems in the PHP community.
 
 ### Selected Previous Roles
 
 **Robert Half Technology / Consulting** — Software Architect / Consultant  
-*March 2008 – October 2012, various consulting roles*  
+_March 2008 – October 2012, various consulting roles_  
 Designed and developed web applications for public-sector, nonprofit, and private clients using ASP.NET, C#, VB.NET, PHP, SQL Server, JavaScript, HTML/CSS, and related web technologies.
 
 **Corp of Enabled Veterans** — Lead Software Architect  
-*April 2010 – August 2012*  
+_April 2010 – August 2012_  
 Led architecture and development for web-based and Windows applications, including requirements, design, implementation, testing, documentation, maintenance, and change management.
 
 **Disabled American Veterans** — Software Engineer II  
-*July 2008 – April 2010*  
+_July 2008 – April 2010_  
 Developed and maintained internal fundraising applications using ASP.NET/VB and Oracle-backed systems.
 
 **Fifth Third Bank** — Senior Data Architect / Release Manager  
-*July 2004 – June 2007*  
+_July 2004 – June 2007_  
 Managed builds, releases, deployment coordination, ClearCase/ClearQuest release packages, implementation planning, and business continuity/disaster recovery planning for core banking applications.
 
 **Reach Publishing** — Director, Software Development  
-*January 2001 – December 2002*  
+_January 2001 – December 2002_  
 Managed and developed internal sales, HR, CRM, and order-entry systems. Led the transition away from Lotus Notes-based applications toward PHP/MySQL web applications.
 
 **Whittman-Hart / MarchFirst** — Senior Consultant  
-*January 1999 – July 2001*  
+_January 1999 – July 2001_  
 Worked on enterprise and startup web applications, including PlanetFeedback.com using Vignette StoryServer/Tcl, and Lotus/Domino-based applications for corporate clients. Frequently assigned to unfamiliar technologies based on ability to learn quickly and contribute fast.
 
 **Synergistics** — Lead Developer / Knowledge Management Architect  
-*August 1997 – December 1998*  
+_August 1997 – December 1998_  
 Led development and architecture for a Knowledge Management product during the early KM wave in the Lotus/Domino ecosystem, including requirements, technical design, development, documentation, and QA methodology.
 
 **Miller Heiman** — IT Manager  
-*April 1995 – July 1997*  
+_April 1995 – July 1997_  
 Supported network and internal systems, administered company technology, and began the transition into software development by creating Lotus Notes-based versions of Strategic Selling and Conceptual Selling tools.
 
 ---
@@ -126,3 +128,10 @@ Supported network and internal systems, administered company technology, and beg
 I’ve always learned best by building things, breaking them down, and explaining them to other people. That pattern shows up in a few different places: published technical author, longtime pool instructor, informal problem-solver for coworkers, and now frequent user of AI-assisted workflows for writing, coding, documentation, and idea development.
 
 I don’t see teaching as separate from development. It’s part of how I understand systems. If I can explain the problem clearly, I’m usually a lot closer to solving it.
+
+## Military Service
+
+**U.S. Navy** — Machinist’s Mate Second Class  
+_August 1985 – October 1993_
+
+Served aboard USS Carl Vinson and USS Sacramento, including service during Operation Desert Storm.

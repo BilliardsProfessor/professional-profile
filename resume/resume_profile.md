@@ -1,7 +1,7 @@
 # Michael Kelso Glass
 
 Senior Application Developer / UX-Focused Systems Builder  
-Front-End Modernization | Internal Tools | Problem Solving | Portland-bound
+Modernizing Internal Tools | UX-Focused Systems | Messy Operational Problems | Portland-bound
 
 ---
 
@@ -24,7 +24,7 @@ I enjoy front-end work because I like seeing ideas become usable. But I do not w
 - Translate operational complexity into clear, maintainable application workflows
 - Create reusable front-end standards, patterns, and conventions for future development
 - Help teammates solve problems by explaining the reasoning, not just handing over the answer
-- Use AI-assisted workflows thoughtfully to reduce grunt work and speed up documentation, coding, and idea development
+- Use AI-assisted workflows to understand unfamiliar systems faster, reduce grunt work, and speed up documentation, coding, and idea development
 
 ---
 
@@ -73,7 +73,7 @@ The county holds the funds in a shared Wells Fargo account, while the applicatio
 **Wiley Publishing**  
 _Beginning 2003, with later revision work_
 
-Lead author and developer for _Beginning PHP, MySQL, and Apache Web Development_ and _Beginning PHP5, MySQL, and Apache Web Development_. Came to PHP through a real business need: replacing Lotus Notes-based internal tools with web applications that were easier to deploy and maintain. Wiley later asked me to lead a team of authors on a PHP development book after I became active helping other developers solve problems in the PHP community.
+Lead author and developer for _Beginning PHP, MySQL, and Apache Web Development_ and _Beginning PHP5, MySQL, and Apache Web Development_. Came to PHP through a real business need: replacing Lotus Notes based internal tools with web applications that were easier to deploy and maintain. Wiley later asked me to lead a team of authors on a PHP development book after I became active helping other developers solve problems in the PHP community.
 
 ### Selected Previous Roles
 
@@ -129,9 +129,15 @@ I’ve always learned best by building things, breaking them down, and explainin
 
 I don’t see teaching as separate from development. It’s part of how I understand systems. If I can explain the problem clearly, I’m usually a lot closer to solving it.
 
+---
+
 ## Military Service
 
 **U.S. Navy** — Machinist’s Mate Second Class  
 _August 1985 – October 1993_
 
-Served aboard USS Carl Vinson and USS Sacramento, including service during Operation Desert Storm.
+Served aboard USS Carl Vinson (CVN-70) and USS Sacramento (AOE-1), including service during Operation Desert Shield and Operation Desert Storm.
+
+While aboard USS Sacramento, built a Quattro Pro-based tool to automate fuel tank calculations used during underway replenishment planning. The tool reduced turnaround time for hog-and-sag calculations from roughly six hours to as little as 15 minutes, helping leadership make faster decisions about fuel distribution.
+
+Worked in high-responsibility operational environments built around reliability, maintenance discipline, teamwork, and practical problem-solving.

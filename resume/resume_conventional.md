@@ -1,17 +1,17 @@
 # Michael Kelso Glass
 
 Senior Application Developer / UX-Focused Systems Builder  
-Front-End Modernization | Internal Tools | Workflow Systems
+Front-End Modernization | Internal Tools | Workflow Systems | Portland-bound
 
 ---
 
 ## Professional Summary
 
-Tool-agnostic application developer with extensive experience modernizing internal systems, improving operational workflows, and building front-end experiences that make complex applications easier to use.
+Tool-agnostic application developer with extensive experience modernizing internal systems, improving operational workflows, and building front-end experiences that make complex applications easier to understand, support, and use.
 
 Background spans government, consulting, publishing, enterprise systems, technical writing, and application architecture, with a consistent focus on usability, maintainability, troubleshooting, and rapid adaptation to unfamiliar technologies.
 
-Experienced in front-end modernization, ASP.NET/C# development, workflow systems, SQL Server applications, performance optimization, AI-assisted workflows, and long-term operational support for internal business applications.
+Experienced in front-end modernization, ASP.NET/C# development, workflow systems, SQL Server applications, performance optimization, AI-assisted learning and development workflows, and long-term operational support for internal business applications.
 
 ---
 
@@ -60,57 +60,53 @@ Designed and developed an internal financial tracking system for managing trust 
 
 ---
 
+## Earlier Career Highlights
+
 ### Robert Half Technology / Consulting
-**Software Architect / Consultant**
+**Software Architect / Consultant**  
+*March 2008 – October 2012, various consulting roles*
 
 Designed and developed web applications for public-sector, nonprofit, and private clients using ASP.NET, C#, VB.NET, PHP, SQL Server, JavaScript, HTML/CSS, and related web technologies.
 
----
-
 ### Corp of Enabled Veterans
-**Lead Software Architect**
+**Lead Software Architect**  
+*April 2010 – August 2012*
 
 Led architecture and development for web-based and Windows applications, including requirements gathering, implementation, testing, documentation, maintenance, and change management.
 
----
-
 ### Disabled American Veterans
-**Software Engineer II**
+**Software Engineer II**  
+*July 2008 – April 2010*
 
 Developed and maintained internal fundraising applications using ASP.NET/VB and Oracle-backed systems.
 
----
-
 ### Fifth Third Bank
-**Senior Data Architect / Release Manager**
+**Senior Data Architect / Release Manager**  
+*July 2004 – June 2007*
 
 Managed builds, releases, deployment coordination, ClearCase/ClearQuest release packages, implementation planning, and business continuity/disaster recovery planning for core banking applications.
 
----
-
 ### Reach Publishing
-**Director, Software Development**
+**Director, Software Development**  
+*January 2001 – December 2002*
 
 Managed and developed internal sales, HR, CRM, and order-entry systems. Led the transition away from Lotus Notes-based applications toward PHP/MySQL web applications.
 
----
-
 ### Whittman-Hart / MarchFirst
-**Senior Consultant**
+**Senior Consultant**  
+*January 1999 – July 2001*
 
 Worked on enterprise and startup web applications, including PlanetFeedback.com using Vignette StoryServer/Tcl, and Lotus/Domino-based applications for corporate clients.
 
----
-
 ### Synergistics
-**Lead Developer / Knowledge Management Architect**
+**Lead Developer / Knowledge Management Architect**  
+*August 1997 – December 1998*
 
 Led development and architecture for a Knowledge Management product during the early KM wave in the Lotus/Domino ecosystem.
 
----
-
 ### Miller Heiman
-**IT Manager**
+**IT Manager**  
+*April 1995 – July 1997*
 
 Supported network and internal systems and began the transition into software development by creating Lotus Notes-based versions of Strategic Selling and Conceptual Selling tools.
 
@@ -128,11 +124,26 @@ Supported network and internal systems and began the transition into software de
 
 ---
 
-## Writing & Teaching
+## Selected Technical Publishing
 
 Lead author and developer for:
 
 - _Beginning PHP, MySQL, and Apache Web Development_
 - _Beginning PHP5, MySQL, and Apache Web Development_
 
+Wrote and developed practical examples covering database design, content management, email workflows, mailing lists, message boards, error handling, and maintainable PHP/MySQL web applications.
+
+---
+
+## Writing, Teaching & Knowledge Sharing
+
 Longtime technical mentor, pool instructor, and collaborative problem-solver with a strong interest in helping people understand systems and workflows more clearly.
+
+---
+
+## Military Service
+
+**U.S. Navy** — Machinist’s Mate Second Class  
+*August 1985 – October 1993*
+
+Served aboard USS Carl Vinson and USS Sacramento, including service during Operation Desert Shield and Operation Desert Storm. Built a Quattro Pro-based tool aboard USS Sacramento that reduced fuel calculation turnaround time from roughly six hours to as little as 15 minutes.

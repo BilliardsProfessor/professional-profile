@@ -1,24 +1,30 @@
-# AI Is More Useful to Experienced Developers Than People Think
+# AI-Assisted Development, or: How I Reduced My Dependency on Ancient Stack Overflow Posts
 
 I’ve been writing software for around 30 years now, and one thing I’ve noticed is that developers tend to define themselves by whatever stack they happen to be working in at the moment.
 
 I’ve been asked a million times what stack I work in, and I get why people ask. It’s a useful shorthand. But I’ve never really thought of myself as a C# developer, or a PHP developer, or a ServiceNow developer, or whatever label happens to fit the current project.
 
-Over the years I’ve worked in Lotus Notes/Domino, Vignette StoryServer with Tcl , PHP/MySQL, ASP.NET/C#, SQL Server, Oracle-backed systems, ServiceNow, Grav CMS, and a bunch of internal applications nobody outside a company would ever recognize. Some of those technologies are still around. Some probably shouldn’t be.
+Over the years I’ve worked in Lotus Notes/Domino, Vignette StoryServer with Tcl, PHP/MySQL, ASP.NET/C#, SQL Server, Oracle-backed systems, ServiceNow, Grav CMS, and a bunch of internal applications nobody outside a company would ever recognize. Some of those technologies are still around. Some probably shouldn’t be. Some may require carbon dating.
 
 The point is, I don’t remember every framework I’ve ever touched in detail, and I don’t think that’s actually the valuable part of experience anyway. What sticks with me are the patterns.
 
 After a while, you start seeing the same problems show up in different forms. A workflow gets awkward. A maintenance decision comes back to haunt someone. A screen makes perfect sense to the developer who built it, but not to the person who has to use it all day. The technology changes, but a lot of the underlying problems are familiar.
 
-That’s where AI has become genuinely useful for me. I don’t see it as a replacement for engineering knowledge. I think it works best when there’s already enough experience behind it to ask better questions and recognize better answers.
+That’s where AI has become genuinely useful for me. And just to head this off early, what I’m describing here is not vibe-coding.
+
+I actually think the rise of hobby developers building things with AI is interesting, and in a lot of cases genuinely exciting. There are people experimenting with software now who probably never would have touched programming otherwise, and I do not see that as a bad thing.
+
+But what I’m talking about is different. I’m not prompting my way blindly through architectures I do not understand and hoping the vibes hold together in production. I’m using AI the way I used to use documentation, forums, coworkers, whiteboards, and Stack Overflow: as a way to get oriented faster in unfamiliar territory.
+
+I don’t see it as a replacement for engineering knowledge. I think it works best when there’s already enough experience behind it to ask better questions and recognize better answers.
 
 A good example is the website work I’ve been doing for my own science fiction novel, including web-based puzzles that tie back to clues hidden in the story. I used XAMPP and Grav CMS, neither of which I had worked with before. Grav uses a flat-file structure, Twig templates, theme inheritance, modular content, and a very different setup than the database-backed systems I have spent most of my career in.
 
-Before using AI, ramping up on that probably would have meant a lot more trial and error, digging through documentation, reading Stack Overflow posts from 2012, and spending two hours figuring out why one tiny thing refused to render correctly.
+Before using AI, ramping up on that probably would have meant a lot more trial and error, digging through documentation, reading Stack Overflow posts from 2012 (and hoping the accepted answer is still relevant), and spending two hours figuring out why one tiny thing refused to render correctly.
 
 Now AI can help shorten that process quite a bit.
 
-It helped explain how Grav organizes content and routing. It helped relate Twig concepts to things I already understood from Razor and MVC work. It helped me troubleshoot session handling and think through restricted-access logic for some puzzle-related site features. What it did not do was make the actual decisions.
+It helped explain how Grav organizes content and routing. It helped relate Twig concepts to things I already understood from Razor and MVC work. It helped me troubleshoot session handling and think through restricted-access logic for some puzzle-related site features. The decisions were still mine.
 
 I still had to figure out whether the structure made sense long-term. I still had to test the behavior myself. I still had to decide where logic belonged, what was maintainable, and what would turn into a future headache. AI can suggest five ways to solve a problem, but experience is what lets you recognize when three of them are technically correct and still bad ideas.
 
@@ -38,10 +44,12 @@ The technology was different, but the work felt familiar: someone had a painful 
 
 AI hasn't changed that. It's just made it easier to get oriented when the surrounding technology is unfamiliar.
 
-And to be clear, I’m not talking about blindly pasting generated code into production and hoping for the best. I’m also not talking about replacing junior developers. A junior developer still needs the chance to develop judgment, troubleshooting skills, and an understanding of how systems behave in the real world.
+To be clear, I’m not talking about blindly pasting generated code into production and hoping for the best. I’m also not talking about replacing junior developers. A junior developer still needs the chance to develop judgment, troubleshooting skills, and an understanding of how systems behave in the real world.
 
 What AI does well is help experienced people move through the “I haven’t seen this exact framework before” phase faster than we used to. You still need judgment. You still need to think about architecture, UX, maintainability, and whether the thing will still make sense six months from now when somebody else has to touch it.
 
-That’s the part I try to keep in mind, especially with internal tools. The demo is the easy part. The real test comes later, when someone has to use it every day, trust the output, work around its rough edges, and eventually ask for one more “small” change.
+That’s the part I try to keep in mind, especially with internal tools. The demo is the easy part. The real test comes later, when someone has to use it every day, trust the output, work around its rough edges, and eventually ask for one more “small” change (usually on Friday at 4:37).
 
 At that point, nobody cares how clever the original solution was. They care whether it helps them do their job without making the rest of their day worse.
+
+Maybe that still counts as vibe-coding to somebody somewhere on the internet. Fair enough. But for me, the interesting part of AI is not handing over the steering wheel. It is reducing the time between “I haven’t worked in this framework before” and “Okay, now I understand how this thing actually works.”
